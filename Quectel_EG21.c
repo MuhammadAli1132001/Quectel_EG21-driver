@@ -1,5 +1,5 @@
 #include "stm32g0xx_hal.h"
-#include "Quectel_EC21.h"
+#include "Quectel_EG21.h"
 #include <string.h>
 #include <stdio.h>
 
